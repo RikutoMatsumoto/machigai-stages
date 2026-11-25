@@ -1,31 +1,6 @@
 {
  "version": 1,
- "stages": [
-  {
-   "id": "s9001",
-   "order": 31,
-   "release_at": "2026-11-25T17:10:44+00:00",
-   "min_app": "1.0.0",
-   "schema": 1,
-   "hidden": false,
-   "rev": 1,
-   "size": 449955,
-   "files": {
-    "base.webp": "a0ec6536ab71feaa950926d47f508d27458054c816618b21cbecfcf0c80a1a67",
-    "p1.webp": "b381da8741b4a6387ff38d3ae1e2d70588880c7b9d006ff09a24f7007593a742",
-    "p10.webp": "d7d5513a6907aa4a71b830bb53205510395dce76fa8e82b2f8d49ad49c28d94d",
-    "p2.webp": "9b437f794519110f3a47d3ed1e5de75e967261701feb007158cf830a5dcbd5bd",
-    "p3.webp": "5d2fca02337817f44ccf10de7b7a65ffa8aa5aeb854cb29b18afe96499ae7712",
-    "p4.webp": "d98fe8366b1b7325f258e4bb939fc75d9121bb431d3adc2d1935baea806fda42",
-    "p5.webp": "cf24fcd45e45767a5b5aa951123b0c1bac8ab6e07d6810d4a1bf0946f37342df",
-    "p6.webp": "1f80634bb361249a30a7bf65efd256fe996bdac8e3222335441e0d6057df40ac",
-    "p7.webp": "8a33cc77190247202b8663b707b59b5606dedca7965a3558c6c209e84c3f05a3",
-    "p8.webp": "21f28b5ea49bed3a7b8168b1a80837ad67a4c52080e490ed592250bc6870680a",
-    "p9.webp": "37f8f8843dd27593d73e7e43b5509acbb0ef5e3598b0a3d3932aa06d61ffca91",
-    "stage.json": "31be559453ce2f5f60d7e534ade758bf6e7450d1f8fbe44d003db21fb6b28223"
-   }
-  }
- ],
+ "stages": [],
  "schema": 1,
- "updated_at": "2026-11-25T17:10:44+00:00"
+ "updated_at": "2026-11-25T17:15:28+00:00"
 }
