@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0026",
+ "title": {
+  "ja": "美術室",
+  "en": "Art Room"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6733,
+     0.0654,
+     0.0593,
+     0.0986
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 902,
+    "y": 50,
+    "w": 115,
+    "h": 135
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 3,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8711,
+     0.1064,
+     0.0864,
+     0.2402
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 1181,
+    "y": 102,
+    "w": 134,
+    "h": 269
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4308,
+     0.8408,
+     0.0571,
+     0.0898
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 575,
+    "y": 845,
+    "w": 108,
+    "h": 124
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 7,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.8711,
+     0.4668,
+     0.0505,
+     0.0527
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 1173,
+    "y": 463,
+    "w": 100,
+    "h": 85
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 9,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5985,
+     0.8545,
+     0.1319,
+     0.0801
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 799,
+    "y": 857,
+    "w": 216,
+    "h": 117
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.2418,
+     0.3926,
+     0.0322,
+     0.0469
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 330,
+    "y": 402,
+    "w": 45,
+    "h": 53
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 11,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.0674,
+     0.5898,
+     0.0879,
+     0.0938
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 91,
+    "y": 604,
+    "w": 123,
+    "h": 112
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 12,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.2571,
+     0.0635,
+     0.0777,
+     0.0498
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 341,
+    "y": 55,
+    "w": 123,
+    "h": 71
+   }
+  }
+ ]
+}

@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0031",
+ "title": {
+  "ja": "山の小屋",
+  "en": "Mountain Cabin"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1429,
+     0.082,
+     0.1282,
+     0.1465
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 190,
+    "y": 58,
+    "w": 185,
+    "h": 197
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.422,
+     0.0449,
+     0.1121,
+     0.1211
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 570,
+    "y": 31,
+    "w": 165,
+    "h": 156
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6842,
+     0.5107,
+     0.1282,
+     0.1445
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 917,
+    "y": 506,
+    "w": 207,
+    "h": 170
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3128,
+     0.6201,
+     0.1194,
+     0.1533
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 423,
+    "y": 620,
+    "w": 183,
+    "h": 187
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8044,
+     0.0781,
+     0.1421,
+     0.165
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 1082,
+    "y": 75,
+    "w": 223,
+    "h": 180
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 7,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.6857,
+     0.8115,
+     0.1656,
+     0.1279
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 920,
+    "y": 813,
+    "w": 254,
+    "h": 167
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8755,
+     0.6768,
+     0.044,
+     0.0625
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 1194,
+    "y": 693,
+    "w": 63,
+    "h": 71
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 10,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0,
+     0.4619,
+     0.241,
+     0.3486
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 0,
+    "y": 457,
+    "w": 337,
+    "h": 389
+   }
+  }
+ ]
+}

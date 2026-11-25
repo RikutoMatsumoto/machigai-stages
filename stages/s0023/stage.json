@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0023",
+ "title": {
+  "ja": "スーパー",
+  "en": "Supermarket"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1245,
+     0.1982,
+     0.1209,
+     0.1035
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 167,
+    "y": 187,
+    "w": 172,
+    "h": 138
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 3,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7641,
+     0.4814,
+     0.1758,
+     0.2148
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 1037,
+    "y": 477,
+    "w": 255,
+    "h": 245
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5158,
+     0.4551,
+     0.148,
+     0.1953
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 702,
+    "y": 457,
+    "w": 206,
+    "h": 225
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3912,
+     0.3398,
+     0.0916,
+     0.1318
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 527,
+    "y": 332,
+    "w": 138,
+    "h": 168
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 6,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.1905,
+     0.7412,
+     0.2037,
+     0.21
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 246,
+    "y": 747,
+    "w": 306,
+    "h": 241
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 7,
+   "kind": "count",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.1267,
+     0.0,
+     0.1333,
+     0.1289
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 155,
+    "y": 0,
+    "w": 218,
+    "h": 150
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.5275,
+     0.8291,
+     0.0879,
+     0.1143
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 718,
+    "y": 849,
+    "w": 125,
+    "h": 130
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.3179,
+     0.168,
+     0.0527,
+     0.0879
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 434,
+    "y": 172,
+    "w": 72,
+    "h": 90
+   }
+  }
+ ]
+}

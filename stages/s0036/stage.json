@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0036",
+ "title": {
+  "ja": "せんたくの日",
+  "en": "Laundry Day"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6498,
+     0.2402,
+     0.1011,
+     0.1973
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 867,
+    "y": 240,
+    "w": 166,
+    "h": 217
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1656,
+     0.166,
+     0.1729,
+     0.2666
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 207,
+    "y": 160,
+    "w": 267,
+    "h": 290
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5377,
+     0.8359,
+     0.0689,
+     0.0898
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 718,
+    "y": 841,
+    "w": 128,
+    "h": 119
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 6,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5729,
+     0.0166,
+     0.1839,
+     0.0928
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 762,
+    "y": 0,
+    "w": 292,
+    "h": 126
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 7,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.4967,
+     0.6064,
+     0.1919,
+     0.1504
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 663,
+    "y": 606,
+    "w": 292,
+    "h": 181
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.3253,
+     0.8818,
+     0.0527,
+     0.0879
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 443,
+    "y": 903,
+    "w": 75,
+    "h": 98
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.3516,
+     0.624,
+     0.0806,
+     0.0713
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 479,
+    "y": 639,
+    "w": 113,
+    "h": 87
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 11,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.6608,
+     0.9102,
+     0.041,
+     0.0586
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 901,
+    "y": 932,
+    "w": 59,
+    "h": 67
+   }
+  }
+ ]
+}

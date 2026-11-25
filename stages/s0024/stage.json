@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0024",
+ "title": {
+  "ja": "花屋さん",
+  "en": "Flower Shop"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 2,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7538,
+     0.0742,
+     0.1194,
+     0.2002
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 1012,
+    "y": 61,
+    "w": 198,
+    "h": 237
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 3,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1978,
+     0.5869,
+     0.1348,
+     0.1504
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 254,
+    "y": 584,
+    "w": 217,
+    "h": 185
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 4,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.093,
+     0.2461,
+     0.1795,
+     0.2783
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 123,
+    "y": 249,
+    "w": 250,
+    "h": 293
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 5,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5377,
+     0.6406,
+     0.1604,
+     0.1309
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 716,
+    "y": 639,
+    "w": 254,
+    "h": 165
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 6,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.2344,
+     0.835,
+     0.1297,
+     0.0762
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 301,
+    "y": 837,
+    "w": 215,
+    "h": 116
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.5055,
+     0.8535,
+     0.044,
+     0.0879
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 689,
+    "y": 874,
+    "w": 63,
+    "h": 97
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8132,
+     0.8477,
+     0.0586,
+     0.0977
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 1108,
+    "y": 868,
+    "w": 85,
+    "h": 109
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.115,
+     0.8779,
+     0.0557,
+     0.0938
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 156,
+    "y": 899,
+    "w": 79,
+    "h": 104
+   }
+  }
+ ]
+}

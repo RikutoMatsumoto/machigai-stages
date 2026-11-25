@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0013",
+ "title": {
+  "ja": "朝ごはんの台所",
+  "en": "Breakfast Kitchen"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7201,
+     0.1787,
+     0.0762,
+     0.0869
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 968,
+    "y": 173,
+    "w": 134,
+    "h": 111
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5473,
+     0.3545,
+     0.0674,
+     0.0977
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 738,
+    "y": 348,
+    "w": 109,
+    "h": 133
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 4,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4418,
+     0.6953,
+     0.0623,
+     0.0898
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 588,
+    "y": 695,
+    "w": 117,
+    "h": 124
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 5,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6835,
+     0.373,
+     0.0549,
+     0.0732
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 900,
+    "y": 368,
+    "w": 121,
+    "h": 100
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 7,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.0059,
+     0.2852,
+     0.1795,
+     0.1719
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 0,
+    "y": 279,
+    "w": 265,
+    "h": 202
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 8,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.8103,
+     0.3486,
+     0.1055,
+     0.1035
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 1094,
+    "y": 339,
+    "w": 168,
+    "h": 141
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.7216,
+     0.7441,
+     0.0733,
+     0.0781
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 983,
+    "y": 762,
+    "w": 105,
+    "h": 94
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.0264,
+     0.8584,
+     0.0864,
+     0.1123
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 34,
+    "y": 879,
+    "w": 123,
+    "h": 128
+   }
+  }
+ ]
+}

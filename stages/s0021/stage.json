@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0021",
+ "title": {
+  "ja": "ひな祭り",
+  "en": "Doll Festival"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6535,
+     0.1162,
+     0.1033,
+     0.2217
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 874,
+    "y": 115,
+    "w": 175,
+    "h": 239
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3187,
+     0.373,
+     0.0879,
+     0.0908
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 420,
+    "y": 366,
+    "w": 150,
+    "h": 124
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7985,
+     0.2646,
+     0.0791,
+     0.0859
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 1072,
+    "y": 261,
+    "w": 143,
+    "h": 114
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.2388,
+     0.8008,
+     0.2168,
+     0.165
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 311,
+    "y": 803,
+    "w": 325,
+    "h": 200
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.2425,
+     0.5977,
+     0.1604,
+     0.1318
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 325,
+    "y": 592,
+    "w": 230,
+    "h": 172
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 7,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.4872,
+     0.7656,
+     0.2527,
+     0.2021
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 653,
+    "y": 772,
+    "w": 370,
+    "h": 232
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8447,
+     0.5811,
+     0.0615,
+     0.0781
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 1152,
+    "y": 595,
+    "w": 87,
+    "h": 89
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6557,
+     0.6328,
+     0.1392,
+     0.0811
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 888,
+    "y": 607,
+    "w": 210,
+    "h": 139
+   }
+  }
+ ]
+}

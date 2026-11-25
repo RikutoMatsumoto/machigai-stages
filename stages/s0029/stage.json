@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0029",
+ "title": {
+  "ja": "秋の公園",
+  "en": "Autumn Park"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1114,
+     0.8574,
+     0.0476,
+     0.0811
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 135,
+    "y": 861,
+    "w": 99,
+    "h": 114
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3524,
+     0.2705,
+     0.0733,
+     0.1309
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 476,
+    "y": 265,
+    "w": 116,
+    "h": 160
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6491,
+     0.6602,
+     0.1568,
+     0.1836
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 870,
+    "y": 659,
+    "w": 246,
+    "h": 220
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8901,
+     0.5859,
+     0.0535,
+     0.0762
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 1199,
+    "y": 584,
+    "w": 105,
+    "h": 109
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.2154,
+     0.6299,
+     0.0967,
+     0.0762
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 276,
+    "y": 627,
+    "w": 167,
+    "h": 102
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.8799,
+     0.8018,
+     0.0901,
+     0.124
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 1188,
+    "y": 808,
+    "w": 149,
+    "h": 157
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 7,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.2864,
+     0.0127,
+     0.1568,
+     0.0898
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 372,
+    "y": 0,
+    "w": 251,
+    "h": 124
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.5311,
+     0.4922,
+     0.0513,
+     0.084
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 725,
+    "y": 504,
+    "w": 71,
+    "h": 95
+   }
+  }
+ ]
+}

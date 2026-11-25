@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0033",
+ "title": {
+  "ja": "こたつの部屋",
+  "en": "Kotatsu Room"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7311,
+     0.0615,
+     0.1326,
+     0.1064
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 993,
+    "y": 47,
+    "w": 194,
+    "h": 139
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 3,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4059,
+     0.4785,
+     0.1604,
+     0.1318
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 547,
+    "y": 485,
+    "w": 242,
+    "h": 156
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 4,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0747,
+     0.8018,
+     0.2527,
+     0.1816
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 87,
+    "y": 805,
+    "w": 370,
+    "h": 212
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 6,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.841,
+     0.627,
+     0.1553,
+     0.165
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 1130,
+    "y": 624,
+    "w": 235,
+    "h": 204
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 7,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.0366,
+     0.3418,
+     0.1568,
+     0.2559
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 36,
+    "y": 338,
+    "w": 242,
+    "h": 294
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.4205,
+     0.8936,
+     0.0674,
+     0.0713
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 572,
+    "y": 915,
+    "w": 97,
+    "h": 83
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8967,
+     0.876,
+     0.0527,
+     0.0889
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 1223,
+    "y": 897,
+    "w": 75,
+    "h": 99
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 12,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.9092,
+     0.0957,
+     0.0542,
+     0.0898
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 1241,
+    "y": 98,
+    "w": 74,
+    "h": 92
+   }
+  }
+ ]
+}

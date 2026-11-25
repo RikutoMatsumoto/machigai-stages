@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0016",
+ "title": {
+  "ja": "キャンプ",
+  "en": "Campsite"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1516,
+     0.7783,
+     0.1722,
+     0.1416
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 191,
+    "y": 782,
+    "w": 267,
+    "h": 173
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1341,
+     0.2295,
+     0.2081,
+     0.1328
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 178,
+    "y": 228,
+    "w": 296,
+    "h": 156
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3692,
+     0.5117,
+     0.115,
+     0.1504
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 488,
+    "y": 508,
+    "w": 180,
+    "h": 175
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6652,
+     0.7441,
+     0.1861,
+     0.1182
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 893,
+    "y": 745,
+    "w": 285,
+    "h": 149
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.0139,
+     0.4043,
+     0.1905,
+     0.1875
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 6,
+    "y": 402,
+    "w": 285,
+    "h": 218
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5143,
+     0.0391,
+     0.1429,
+     0.0742
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 684,
+    "y": 22,
+    "w": 231,
+    "h": 107
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 7,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8073,
+     0.6191,
+     0.041,
+     0.0596
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 1101,
+    "y": 634,
+    "w": 59,
+    "h": 67
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.885,
+     0.8301,
+     0.0615,
+     0.1025
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 1207,
+    "y": 850,
+    "w": 87,
+    "h": 114
+   }
+  }
+ ]
+}

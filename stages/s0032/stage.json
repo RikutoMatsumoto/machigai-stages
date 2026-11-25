@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0032",
+ "title": {
+  "ja": "宇宙の子ども部屋",
+  "en": "Space Bedroom"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5297,
+     0.0908,
+     0.052,
+     0.0996
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 706,
+    "y": 81,
+    "w": 105,
+    "h": 124
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7553,
+     0.0137,
+     0.107,
+     0.1396
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 1013,
+    "y": 0,
+    "w": 180,
+    "h": 174
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8227,
+     0.6416,
+     0.0901,
+     0.0762
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 1113,
+    "y": 640,
+    "w": 149,
+    "h": 104
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3597,
+     0.7754,
+     0.1348,
+     0.1064
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 485,
+    "y": 781,
+    "w": 200,
+    "h": 138
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.1165,
+     0.5449,
+     0.1553,
+     0.2588
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 147,
+    "y": 545,
+    "w": 236,
+    "h": 290
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.7399,
+     0.8271,
+     0.107,
+     0.1289
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 997,
+    "y": 831,
+    "w": 168,
+    "h": 158
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.1919,
+     0.9102,
+     0.0557,
+     0.0732
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 261,
+    "y": 932,
+    "w": 79,
+    "h": 84
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6161,
+     0.2627,
+     0.0952,
+     0.0977
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 826,
+    "y": 253,
+    "w": 161,
+    "h": 124
+   }
+  }
+ ]
+}

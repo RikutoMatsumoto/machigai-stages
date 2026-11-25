@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0020",
+ "title": {
+  "ja": "お正月",
+  "en": "New Year"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5788,
+     0.3574,
+     0.1282,
+     0.1523
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 783,
+    "y": 363,
+    "w": 195,
+    "h": 172
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 4,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6623,
+     0.0537,
+     0.1348,
+     0.2373
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 887,
+    "y": 46,
+    "w": 213,
+    "h": 266
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 5,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.148,
+     0.8818,
+     0.0777,
+     0.0967
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 185,
+    "y": 891,
+    "w": 140,
+    "h": 127
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 6,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.0227,
+     0.5811,
+     0.0952,
+     0.126
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 18,
+    "y": 583,
+    "w": 157,
+    "h": 153
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 7,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.7927,
+     0.875,
+     0.0842,
+     0.1074
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 1062,
+    "y": 882,
+    "w": 154,
+    "h": 140
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.485,
+     0.7705,
+     0.041,
+     0.0596
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 661,
+    "y": 789,
+    "w": 59,
+    "h": 69
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.2791,
+     0.5762,
+     0.0425,
+     0.0596
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 380,
+    "y": 590,
+    "w": 61,
+    "h": 67
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.43,
+     0.8838,
+     0.063,
+     0.0889
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 586,
+    "y": 904,
+    "w": 89,
+    "h": 101
+   }
+  }
+ ]
+}

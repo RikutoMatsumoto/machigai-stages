@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "s0035",
+ "title": {
+  "ja": "クリスマスマーケット",
+  "en": "Christmas Market"
+ },
+ "level": "challenge",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1458,
+     0.4229,
+     0.052,
+     0.0713
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 189,
+    "y": 417,
+    "w": 93,
+    "h": 103
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5495,
+     0.3018,
+     0.0425,
+     0.0771
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 735,
+    "y": 291,
+    "w": 88,
+    "h": 101
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4286,
+     0.4854,
+     0.0689,
+     0.0635
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 570,
+    "y": 479,
+    "w": 119,
+    "h": 99
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8879,
+     0.4199,
+     0.0799,
+     0.0977
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 1205,
+    "y": 421,
+    "w": 129,
+    "h": 124
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.8132,
+     0.8779,
+     0.0586,
+     0.0771
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 1108,
+    "y": 899,
+    "w": 85,
+    "h": 88
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 9,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1304,
+     0.6797,
+     0.0894,
+     0.085
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 163,
+    "y": 681,
+    "w": 152,
+    "h": 118
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.4579,
+     0.8867,
+     0.0366,
+     0.0771
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 624,
+    "y": 908,
+    "w": 53,
+    "h": 84
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 12,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.0674,
+     0.0586,
+     0.041,
+     0.0508
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 92,
+    "y": 60,
+    "w": 56,
+    "h": 52
+   }
+  },
+  {
+   "id": 9,
+   "src_layer": 13,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.7194,
+     0.1758,
+     0.041,
+     0.0508
+    ]
+   },
+   "patch": {
+    "file": "p9.webp",
+    "x": 982,
+    "y": 180,
+    "w": 56,
+    "h": 52
+   }
+  },
+  {
+   "id": 10,
+   "src_layer": 14,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.1553,
+     0.915,
+     0.041,
+     0.0586
+    ]
+   },
+   "patch": {
+    "file": "p10.webp",
+    "x": 211,
+    "y": 937,
+    "w": 59,
+    "h": 67
+   }
+  }
+ ]
+}

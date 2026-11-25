@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0017",
+ "title": {
+  "ja": "雨の日の玄関",
+  "en": "Rainy Entrance"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6718,
+     0.3184,
+     0.1018,
+     0.2646
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 900,
+    "y": 313,
+    "w": 159,
+    "h": 292
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0161,
+     0.0654,
+     0.2315,
+     0.3389
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 13,
+    "y": 51,
+    "w": 341,
+    "h": 367
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8425,
+     0.2031,
+     0.1575,
+     0.3623
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 1135,
+    "y": 200,
+    "w": 230,
+    "h": 395
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0989,
+     0.7529,
+     0.1648,
+     0.1182
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 120,
+    "y": 762,
+    "w": 256,
+    "h": 145
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 6,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5399,
+     0.8164,
+     0.1363,
+     0.1533
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 718,
+    "y": 818,
+    "w": 224,
+    "h": 194
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 7,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.7385,
+     0.8506,
+     0.0769,
+     0.0918
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 1006,
+    "y": 871,
+    "w": 109,
+    "h": 106
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.6938,
+     0.1787,
+     0.0557,
+     0.0928
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 947,
+    "y": 183,
+    "w": 76,
+    "h": 95
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3883,
+     0.0,
+     0.2256,
+     0.1543
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 525,
+    "y": 0,
+    "w": 320,
+    "h": 172
+   }
+  }
+ ]
+}

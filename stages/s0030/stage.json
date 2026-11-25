@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0030",
+ "title": {
+  "ja": "お花見",
+  "en": "Cherry Blossom Picnic"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5018,
+     0.2217,
+     0.0747,
+     0.1016
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 683,
+    "y": 211,
+    "w": 116,
+    "h": 138
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5736,
+     0.4805,
+     0.1297,
+     0.127
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 780,
+    "y": 460,
+    "w": 186,
+    "h": 178
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7685,
+     0.6328,
+     0.2073,
+     0.2637
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 1043,
+    "y": 643,
+    "w": 306,
+    "h": 284
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4007,
+     0.6914,
+     0.0549,
+     0.0977
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 531,
+    "y": 693,
+    "w": 108,
+    "h": 126
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 6,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5319,
+     0.0869,
+     0.1026,
+     0.0615
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 708,
+    "y": 71,
+    "w": 176,
+    "h": 99
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 7,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.0974,
+     0.8369,
+     0.1458,
+     0.1357
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 116,
+    "y": 840,
+    "w": 232,
+    "h": 172
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.5136,
+     0.9033,
+     0.0425,
+     0.0615
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 700,
+    "y": 925,
+    "w": 61,
+    "h": 69
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.6696,
+     0.7324,
+     0.0674,
+     0.0684
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 913,
+    "y": 750,
+    "w": 95,
+    "h": 83
+   }
+  }
+ ]
+}

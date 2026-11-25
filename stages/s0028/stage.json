@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0028",
+ "title": {
+  "ja": "保健室",
+  "en": "School Nurse Room"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0352,
+     0.166,
+     0.1319,
+     0.0791
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 43,
+    "y": 153,
+    "w": 190,
+    "h": 119
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3209,
+     0.6191,
+     0.0403,
+     0.0635
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 431,
+    "y": 616,
+    "w": 80,
+    "h": 99
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3934,
+     0.1094,
+     0.0923,
+     0.1172
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 522,
+    "y": 95,
+    "w": 152,
+    "h": 148
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4095,
+     0.4219,
+     0.1084,
+     0.0957
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 542,
+    "y": 421,
+    "w": 182,
+    "h": 122
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8256,
+     0.2959,
+     0.1744,
+     0.168
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 1123,
+    "y": 297,
+    "w": 242,
+    "h": 180
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "size",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.5158,
+     0.6963,
+     0.1011,
+     0.2002
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 691,
+    "y": 700,
+    "w": 164,
+    "h": 236
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 7,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.7231,
+     0.6729,
+     0.1473,
+     0.1904
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 977,
+    "y": 673,
+    "w": 226,
+    "h": 230
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 8,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.0278,
+     0.5957,
+     0.0498,
+     0.082
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 37,
+    "y": 610,
+    "w": 71,
+    "h": 92
+   }
+  }
+ ]
+}

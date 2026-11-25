@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "s0019",
+ "title": {
+  "ja": "クリスマスの部屋",
+  "en": "Christmas Room"
+ },
+ "level": "challenge",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6029,
+     0.0225,
+     0.041,
+     0.0703
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 806,
+    "y": 6,
+    "w": 90,
+    "h": 106
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5736,
+     0.166,
+     0.0579,
+     0.0654
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 774,
+    "y": 154,
+    "w": 100,
+    "h": 93
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.0791,
+     0.0215,
+     0.1201,
+     0.1377
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 94,
+    "y": 6,
+    "w": 193,
+    "h": 166
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4271,
+     0.375,
+     0.148,
+     0.1104
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 575,
+    "y": 368,
+    "w": 218,
+    "h": 145
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.8718,
+     0.2637,
+     0.0967,
+     0.1572
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 1177,
+    "y": 260,
+    "w": 176,
+    "h": 187
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 11,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.4403,
+     0.8398,
+     0.0571,
+     0.0752
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 599,
+    "y": 860,
+    "w": 83,
+    "h": 85
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 12,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.6828,
+     0.8145,
+     0.0337,
+     0.0713
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 932,
+    "y": 834,
+    "w": 47,
+    "h": 78
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 13,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.2894,
+     0.082,
+     0.0366,
+     0.0449
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 395,
+    "y": 84,
+    "w": 50,
+    "h": 46
+   }
+  },
+  {
+   "id": 9,
+   "src_layer": 14,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3744,
+     0.5938,
+     0.1136,
+     0.0576
+    ]
+   },
+   "patch": {
+    "file": "p9.webp",
+    "x": 500,
+    "y": 591,
+    "w": 182,
+    "h": 93
+   }
+  },
+  {
+   "id": 10,
+   "src_layer": 16,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1179,
+     0.6475,
+     0.1187,
+     0.1562
+    ]
+   },
+   "patch": {
+    "file": "p10.webp",
+    "x": 155,
+    "y": 655,
+    "w": 184,
+    "h": 174
+   }
+  }
+ ]
+}

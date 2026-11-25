@@ -1,0 +1,185 @@
+{
+ "schema": 1,
+ "id": "s0027",
+ "title": {
+  "ja": "音楽室",
+  "en": "Music Room"
+ },
+ "level": "normal",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.6689,
+     0.7871,
+     0.0791,
+     0.167
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 896,
+    "y": 788,
+    "w": 142,
+    "h": 204
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1641,
+     0.0967,
+     0.0864,
+     0.0605
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 219,
+    "y": 82,
+    "w": 139,
+    "h": 96
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5238,
+     0.2979,
+     0.1062,
+     0.0508
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 697,
+    "y": 277,
+    "w": 175,
+    "h": 99
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.2425,
+     0.6328,
+     0.0476,
+     0.083
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 313,
+    "y": 631,
+    "w": 101,
+    "h": 114
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.3678,
+     0.6309,
+     0.0615,
+     0.0332
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 484,
+    "y": 629,
+    "w": 120,
+    "h": 68
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "count",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.3458,
+     0.7471,
+     0.1253,
+     0.2285
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 456,
+    "y": 749,
+    "w": 203,
+    "h": 265
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 7,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.6542,
+     0.5361,
+     0.1018,
+     0.1738
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 875,
+    "y": 530,
+    "w": 174,
+    "h": 215
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.0769,
+     0.002,
+     0.0293,
+     0.0566
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 105,
+    "y": 2,
+    "w": 40,
+    "h": 58
+   }
+  }
+ ]
+}

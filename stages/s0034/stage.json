@@ -1,0 +1,227 @@
+{
+ "schema": 1,
+ "id": "s0034",
+ "title": {
+  "ja": "雪だるまの村",
+  "en": "Snowman Village"
+ },
+ "level": "challenge",
+ "w": 1365,
+ "h": 1024,
+ "base": "base.webp",
+ "hit_pad": 0.015,
+ "hit_min": 0.09,
+ "verified": true,
+ "diffs": [
+  {
+   "id": 1,
+   "src_layer": 1,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.1648,
+     0.1582,
+     0.0733,
+     0.0605
+    ]
+   },
+   "patch": {
+    "file": "p1.webp",
+    "x": 215,
+    "y": 145,
+    "w": 121,
+    "h": 95
+   }
+  },
+  {
+   "id": 2,
+   "src_layer": 2,
+   "kind": "remove",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4051,
+     0.3066,
+     0.1136,
+     0.0781
+    ]
+   },
+   "patch": {
+    "file": "p2.webp",
+    "x": 538,
+    "y": 298,
+    "w": 182,
+    "h": 112
+   }
+  },
+  {
+   "id": 3,
+   "src_layer": 3,
+   "kind": "shape",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.7121,
+     0.3838,
+     0.0696,
+     0.0967
+    ]
+   },
+   "patch": {
+    "file": "p3.webp",
+    "x": 968,
+    "y": 377,
+    "w": 113,
+    "h": 127
+   }
+  },
+  {
+   "id": 4,
+   "src_layer": 4,
+   "kind": "count",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.5304,
+     0.668,
+     0.1048,
+     0.1025
+    ]
+   },
+   "patch": {
+    "file": "p4.webp",
+    "x": 717,
+    "y": 668,
+    "w": 165,
+    "h": 127
+   }
+  },
+  {
+   "id": 5,
+   "src_layer": 5,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.022,
+     0.4453,
+     0.1678,
+     0.2031
+    ]
+   },
+   "patch": {
+    "file": "p5.webp",
+    "x": 25,
+    "y": 450,
+    "w": 250,
+    "h": 220
+   }
+  },
+  {
+   "id": 6,
+   "src_layer": 6,
+   "kind": "pattern",
+   "method": "a",
+   "hit": {
+    "rect": [
+     0.4322,
+     0.8457,
+     0.1158,
+     0.1045
+    ]
+   },
+   "patch": {
+    "file": "p6.webp",
+    "x": 576,
+    "y": 849,
+    "w": 190,
+    "h": 141
+   }
+  },
+  {
+   "id": 7,
+   "src_layer": 7,
+   "kind": "turn",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.1817,
+     0.749,
+     0.2095,
+     0.1631
+    ]
+   },
+   "patch": {
+    "file": "p7.webp",
+    "x": 235,
+    "y": 752,
+    "w": 308,
+    "h": 198
+   }
+  },
+  {
+   "id": 8,
+   "src_layer": 8,
+   "kind": "remove",
+   "method": "c",
+   "hit": {
+    "rect": [
+     0.6015,
+     0.0352,
+     0.0637,
+     0.1299
+    ]
+   },
+   "patch": {
+    "file": "p8.webp",
+    "x": 805,
+    "y": 21,
+    "w": 120,
+    "h": 164
+   }
+  },
+  {
+   "id": 9,
+   "src_layer": 9,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.3106,
+     0.0508,
+     0.0352,
+     0.0938
+    ]
+   },
+   "patch": {
+    "file": "p9.webp",
+    "x": 424,
+    "y": 52,
+    "w": 48,
+    "h": 98
+   }
+  },
+  {
+   "id": 10,
+   "src_layer": 10,
+   "kind": "add",
+   "method": "b",
+   "hit": {
+    "rect": [
+     0.6139,
+     0.9219,
+     0.0396,
+     0.0576
+    ]
+   },
+   "patch": {
+    "file": "p10.webp",
+    "x": 837,
+    "y": 944,
+    "w": 57,
+    "h": 64
+   }
+  }
+ ]
+}
